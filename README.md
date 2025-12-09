@@ -6,11 +6,15 @@ Integrated live market data using yfinance and implemented technical indicators 
 
 Built an interactive dashboard with Streamlit to visualize price trends, moving averages, and model predictions.
 
-before run and must install and import these below:
+before run the program, must install and import these below:-
 
-pip install yfinance
-import streamlit as st
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import yfinance as yf
+- pip install yfinance
+- import streamlit as st
+- import pandas as pd
+- import numpy as np
+- import matplotlib.pyplot as plt
+- import yfinance as yf
+
+
+
+
